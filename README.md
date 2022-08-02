@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
+* Database initializzation
 
 * How to run the test suite
 
@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+TODO: muffin factory outlet web shop
+TODO: support users
+TODO: session management 
+TODO: authentication
+TODO: transactions
