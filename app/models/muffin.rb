@@ -1,2 +1,0 @@
-class Muffin < ApplicationRecord
-end
