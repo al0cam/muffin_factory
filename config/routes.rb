@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :muffins
   resources :ingredients
   root 'main_page#index'
   # get 'main_page/index'
