@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :roles
+  resources :users
   resources :muffins
   resources :ingredients
   root 'main_page#index'
